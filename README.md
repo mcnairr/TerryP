@@ -27,3 +27,7 @@ Links between pages are relative, so the site works both at `https://<user>.gith
 In the repository's **Settings → Pages**, set the source to "Deploy from a branch", branch `main`, folder `/ (root)`.
 
 To serve it at terrypickett.com, enter the domain under **Settings → Pages → Custom domain**, then point the domain's DNS at GitHub Pages (see GitHub's "Managing a custom domain" docs).
+
+## License
+
+The site code (CSS, JavaScript, HTML markup) is MIT-licensed. The content (text, photos, audio, and visitor remembrances) is all rights reserved. See [LICENSE](LICENSE).
